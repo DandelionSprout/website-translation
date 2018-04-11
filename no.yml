@@ -25,140 +25,140 @@ page-contact: # https://www.crystalidea.com/contact
   description: Kontact CrystalIDEA, og få hjelp til å bruke CrystalIDEA-programmer. Firmaforespørsler, forslag
   requests_header: "Vanligste kundestøtteforespørsler:"
   request_1: Jeg har kjøpt Uninstall Tool. Hvordan låser jeg den opp / får jeg den registrerte versjonen?
-  request_2: I’ve purchased AnyToISO. Hvordan låser jeg den opp / får Pro-versjonen?
+  request_2: Jeg har kjøpt AnyToISO. Hvordan låser jeg den opp / får Pro-versjonen?
   request_3: Gjenopprett en mistet lisens
   contact_header: Kontakt oss
   contact_info: For produkttilknyttede spørsmål, forslag, avlusingsrapporter og kommentarer, vennligst bruk vårt offisielle forum.
   support_header: For å sende inn en bug-rapport, et problem, eller et egenskapsønske
-  support_info: "The GitHub issue tracker is the recommended way to get support. Navigate to the GitHub by clicking on the corresponding app button below:"
-  email_header: Email Us
-  email_info: For issues containing sensitive data contact us privately.
-  box_help_pages: Help Pages
-  box_help_pages_info: "Before you ask please read our help pages for:"
-  box_business: Business contact
-  box_business_info: Business inquiries, proposals, etc.
-  button_email: E-mail Us
-  button_forum: Ask on the forum
-  button_business: Business contact
+  support_info: "Github-saksporeren er den anbefalte måten å få kundestøtte på GitHub. Naviger til GitHub ved å klikke på den samsvarende app-knappen nedenfor:"
+  email_header: Send oss en E-post
+  email_info: For saker som inneholder sensitive dataer, kontakt oss privat.
+  box_help_pages: Hjelpesider
+  box_help_pages_info: "Før du spør, vennligst les hjelpesidene våre for::"
+  box_business: Forretningskontakt
+  box_business_info: Firmaforespørsler, forslag, osv.
+  button_email: Send oss en E-post
+  button_forum: Legg ut på forumet
+  button_business: Forretningskontakt
 
 toolbox-contact: # https://www.crystalidea.com/privacy-policy
-  title: Contact Us
-  text: Please contact us if you have any questions about CrystalIDEA or any of its products
-  button: Contact
+  title: Kontakt oss
+  text: Vennligst kontakt oss hvis du har noen spørsmål om CrystalIDEA eller noen av dens produkter
+  button: Kontakt
 
 common:
-  products: Products
-  contact: Contact
-  multilingual_interface: "$app_name interface is translated into most languages:"
+  products: Produkter
+  contact: Kontakt
+  multilingual_interface: "$app_name interface er oversatt til de fleste språk:"
 
 footer:
-  subscribe: Subscribe to CrystalIDEA news
-  subscribe_join: Join 14.000+ subscribers and receive product updates and  relevant software related articles.
-  connect_with_us: Connect with us
-  languages: Languages
-  email_placeholder: Your email address
-  try_ut: Try Uninstall Tool
-  try_ut_more: Get started in seconds and try Uninstall Tool free for 30 days.
-  try_anytoiso: Try AnyToISO
-  try_anytoiso_more: Get started in seconds and try AnyToISO for free now.
-  try_mfc: Try Macs Fan Control
-  try_mfc_more: Get started in seconds and try Macs Fan Control.
-  try_download: Download
-  privacy_policy: Privacy Policy
+  subscribe: Abonner på CrystalIDEA-nyheter
+  subscribe_join: Bli med 14.000+ abonnenter og motta oppdateringer om produkter og relevante programvare-relaterte artikler.
+  connect_with_us: Kom på lag med oss
+  languages: Språk
+  email_placeholder: Din E-postadresse
+  try_ut: Prøv Uninstall Tool
+  try_ut_more: Sett i gang på sekunder og prøv Uninstall Tool gratis i 30 dager.
+  try_anytoiso: Prøv AnyToISO
+  try_anytoiso_more: Sett i gang på sekunder og prøv AnyToISO gratis nå.
+  try_mfc: Prøv Macs Fan Control
+  try_mfc_more: Sett i gang på sekunder og prøv Macs Fan Control.
+  try_download: Last ned
+  privacy_policy: Privatlivsretningslinjer
 
 product-menu: # https://www.crystalidea.com/uninstall-tool
-  overview: Overview
-  features: Features
-  buy: Pricing & Buy
-  support: Support
-  download: Download
+  overview: Oversikt
+  features: Egenskaper
+  buy: Prisføring og kjøp
+  support: Kundestøtte
+  download: Last ned
 
 store-page: # https://www.crystalidea.com/store
-  title: CrystalIDEA Store, Secure Online Purchase
-  header: CrystalIDEA Store
-  description: CrystalIDEA Secure Online Store. Instant delivery of registration key unlocking software, volume discounts, bundle discounts.
+  title: CrystalIDEA-butikken, sikre nettkjøp
+  header: CrystalIDEA-butikken
+  description: CrystalIDEA sin sikre nettbutikk. Umiddelbar levering av registreringsnøkkelen som låser opp programvare, grupperabatter, og pakkerabatter.
 
 buy-page: # https://www.crystalidea.com/store
-  toolbox_header: Quick Facts
-  toolbox_info_1: Each type of license is a one-time payment which includes life-time technical support.
-  toolbox_info_2: Personal License is on a per-user basis. The number of users can be specified as 'Quantity' after pressing the "Buy" button (discounts apply).
-  toolbox_info_3: "[Portable license](/$app_id/portable-mode) is designed for use by a single user on multiple PCs. Portable mode doesn't require installing and activating the app on each computer, it can be started from a USB flash drive. Detailed instructions are sent straight after the purchase."
-  toolbox_info_4: All minor updates are FREE. Major updates (2.x -> 3.x) come with 50% discount for existing customers.
-  price: Price
-  buy_button: Buy Now
-  bundle_save: Save $!
-  volume_discounts: Volume discounts available
-  portable_info: Single user - multiple PCs
-  info_eu: For customers from the European Union, value added tax is added to all orders. Companies can purchase tax-free by providing their VAT registration number. For customers outside the EU, no VAT is added.
-  info_switch: Display estimated prices in $curr
-  info_switch_back: Display prices in USD
-  student_discount_header: Student discount
-  student_discount_info: If you're a student, please [e-mail us](/contact) using your university e-mail address (typically .edu TLD for the US) for 30% discount.
+  toolbox_header: Raske fakta
+  toolbox_info_1: Hver type lisens er en én-gangsbetaling som inkluderer teknisk kundestøtte på livstid.
+  toolbox_info_2: Personlig lisens er per bruker. Antallet brukere kan bli spesifisert som 'Antall' etter å trykket på "Kjøp"-knappen (Rabatter gjelder).
+  toolbox_info_3: "[Bærbar lisens](/$app_id/portable-mode) er utformet for bruk av én enkelt bruker på flere PCer. Bærbar modus krever ikke installasjon og aktivering av appen på hver PC, og den kan bli startet opp fra en USB-pinne. Detaljerte instruksjoner sendes rett etter kjøpet."
+  toolbox_info_4: Alle småoppdateringer er GRATIS. Store oppdateringer (2.x → 3.x) kommer med en 50% rabatt for eksisterende kunder.
+  price: Pris
+  buy_button: Kjøp nå
+  bundle_save: Spar $!
+  volume_discounts: Gruppelisenser er tilgjengelige
+  portable_info: Én bruker - flere PCer
+  info_eu: For kunder i den Europeiske Union, legges moms til alle bestillinger. Firmaer kan kjøpe skattefritt ved å sende med deres momsregistreringsnummer. For kunder utenfor EU, legges det ikke til noen moms.
+  info_switch: Vis anslåtte priser i $curr
+  info_switch_back: Vis priser i USD
+  student_discount_header: Studentrabatt
+  student_discount_info: Hvis du er en student, vennligst [send oss en E-post](/contact) gjennom din universitets-E-postadresse (vanligvis med .edu-TLD i USA) for 30% rabatt.
 
 support-page: # https://www.crystalidea.com/uninstall-tool/support
-  banner_header: $app_name Support
-  banner_info: Learn how to start using $app_name and find the answers to your questions.
-  version: Latest Version
-  button_upgrade: Upgrade Now
-  requirements: System requirements
+  banner_header: $app_name-kundestøtte
+  banner_info: Lær hvordan man begynner å bruke $app_name og finn svarene på spørsmålene dine.
+  version: Seneste versjon
+  button_upgrade: Oppgrader nå
+  requirements: Systemkrav
   documentation: Documentation
-  documentation_info: Read our FAQ and use the support pages below for additional information.
-  documentation_faq: Frequently Asked Questions
-  documentation_release_notes: Release Notes
-  contact: Contact Us
-  contact_2: Get Support
-  contact_info: We reply to enquiries within two working days and to most questions within a few hours.
-  contact_info_2: To submit a bug, a problem or a feature request, please use the GitHub issue tracker.
-  contact_mail: Contact Us
-  contact_mail_2: Contact us via e-mail
-  contact_forum: Support Forum
-  contact_github: GitHub Issue Tracker
-  support_pages: Support Pages
-  latest_blog_posts: "Latest $app_name posts from our blog:"
-  box_user_guide_header: $app_name User Guide
-  box_user_guide_text: This topic is a part of $app_name Support Articles.
-  box_user_guide_link: Return to the index
-  box_contact_header: Questions?
-  box_contact_text: Don't hesitate to contact CrystalIDEA if you have any questions.
-  box_contact_link: Contact Support
+  documentation_info: Les vår FAQ og bruk kundestøttesidene nedenfor for mere informasjon.
+  documentation_faq: Ofte stilte spørsmål
+  documentation_release_notes: Versjonnotater
+  contact: Kontakt oss
+  contact_2: Få kundestøtte
+  contact_info: Vi svarer på forespørsler innen 2 virkedager, og til de fleste spørsmål innen noen timer.
+  contact_info_2: For å melde inn en bug, et problem eller en egenskapsforespørsel, vennligst bruk Github saksporeren.
+  contact_mail: Kontakt oss
+  contact_mail_2: Kontakt oss gjennom E-post
+  contact_forum: Kundestøtteforum
+  contact_github: GitHub-saksporeren
+  support_pages: Kundestøttesider
+  latest_blog_posts: "De seneste $app_name-innleggen fra bloggen vår:"
+  box_user_guide_header: $app_name-bruksanvisning
+  box_user_guide_text: Dette temaet er en del av $app_name-brukerstøtteartiklene.
+  box_user_guide_link: Returner til indeksen
+  box_contact_header: Noen spørsmål?
+  box_contact_text: Ikke nøl med å kontakte CrystalIDEA hvis du har noen spørsmål.
+  box_contact_link: Kontakt kundestøtte
 
 portable_mode: # https://www.crystalidea.com/uninstall-tool/portable-mode
-    stripe_1_info_1: There's no need to install $app_name on every PC to use all of its features.
-    stripe_1_info_2: Take the app wherever you go (on a USB flash drive) along with its settings & license. Use it on any Windows computer.
-    stripe_1_info_3: $app_name Portable can be used on multiple computers by a single person.
-    download_link: Portable version download link
+    stripe_1_info_1: Det er ikke behov for å installere $app_name på alle PCene for å bruke alle dens egenskaper.
+    stripe_1_info_2: Ta med deg appen hvor enn du går (på en USB-pinne) sammen med dens innstillinger og lisens. Bruk den på enhver Windows-datamaskin.
+    stripe_1_info_3: $app_name Portable kan bli brukt på flere datamaskiner av én enkelt person.
+    download_link: Nedlastningslenke for bærbar versjon
 
 faq-page: # https://www.crystalidea.com/uninstall-tool/faq
-    header: Frequently Asked Questions
+    header: Ofte stilte spørsmål
 
 download-page: # https://www.crystalidea.com/uninstall-tool/download
-  version: Version
-  updated: Updated
+  version: Versjon
+  updated: Oppdatert
 
 uninstall-tool: # https://www.crystalidea.com/uninstall-tool
-  title: Uninstall Tool - Unique and Powerful Uninstaller, Uninstall Software, Remove Programs
-  description: Uninstaller that performs clean removal of any program from your PC. Installation tracing, leftovers removal. Works with lightning speed and controls apps that run on system startup.
-  header: Fast and Powerful Uninstaller <br>for Complete Removal of Programs
-  header_feature_1: Thorough removal of unwanted apps
-  header_feature_2: Real-time installation monitor
-  header_feature_3: Control apps that run at system startup
-  header_feature_4: Portable, multilingual and beautifully designed
-  header_button_1: Free Trial
-  header_button_2: See Features
-  stripe_1_header: Remove unwanted software, make your computer clean and even faster <br> with an effective, powerful and easy-to-use Windows app
-  tour_feature_1: Uninstall Wizard
-  tour_feature_1_text: Completely remove unwanted software by removing leftover file system & registry items
-  tour_feature_2: Install Tracker
-  tour_feature_2_text: Install apps with real-time tracing. View and record which files/registry items are created
-  tour_feature_3: Force Removal
-  tour_feature_3_text: Uninstall stubborn apps that cannot be removed using standard uninstaller
-  tour_feature_4: Batch Uninstall
-  tour_feature_4_text: Uninstall or perform Force Removal of multiple selected apps
-  tour_feature_5: Startup Manager
-  tour_feature_5_text: Find, add or remove apps that automatically start when Windows starts
-  tour_feature_6: Portable Mode
-  tour_feature_6_text: Run Uninstall Tool from a USB drive on multiple PCs
-  stripe_2_slide_1_title: Incredibly fast and convenient uninstaller
+  title: Uninstall Tool - Unik og kraftig avinstallerer, avinstaller programvare og fjern programmer
+  description: En avinstallerer som utfører ryddige fjerninger av ethvert program på PCen din. Installasjonssporing og fjerning av rester. Fungerer i flammende fart og styrer appene som kjører ved systemoppstart.
+  header: Rask og kraftig avinstallatør <br>for komplett fjerning av programmer
+  header_feature_1: Grundig fjerning av uønskede apper
+  header_feature_2: Sanntids installasjonsovervåker
+  header_feature_3: Styr appene som kjører ved systemoppstart
+  header_feature_4: Bærbar, flerspråklig, og vakkert utformet
+  header_button_1: Gratis prøveversjon
+  header_button_2: Se egenskapene
+  stripe_1_header: Fjern uønsket programvare, og gjør datamaskinen din ryddig og enda raskere <br> med en effektiv, kraftig og lettbrukelig Windows-app
+  tour_feature_1: Avinstalleringsveiviser
+  tour_feature_1_text: Fullstendig fjern uønsket programvare ved å fjerne restegjenstander i filsystemet og registeret.
+  tour_feature_2: Installeringssporer
+  tour_feature_2_text: Installer apper med sanntidssporing. Vis og overvåk hvilke filer og registergjenstander som blir opprettet
+  tour_feature_3: Tvunget fjerning
+  tour_feature_3_text: Avinstaller stabukk-apper som ikke kan bli fjernet med den vanlige avinstallereren
+  tour_feature_4: Bunkefjerning
+  tour_feature_4_text: Avinstaller eller utfør tvunget fjerning av flere valgte apper
+  tour_feature_5: Oppstartsbehandler
+  tour_feature_5_text: Finn, legg til eller fjern apper som automatisk starter opp sammen med Windows
+  tour_feature_6: Bærbar modus
+  tour_feature_6_text: Kjør Uninstall Tool fra en USB-pinne på flere PCer
+  stripe_2_slide_1_title: En utrolig rask og nyttig avinstallerer
   stripe_2_slide_1_descr: Effective, powerful app with a simple yet intuitive interface.
   stripe_2_slide_2_title: Remove leftovers from your file system & registry
   stripe_2_slide_2_descr: Perform a thorough search for leftovers on your PC without having to rely on the default uninstaller.
